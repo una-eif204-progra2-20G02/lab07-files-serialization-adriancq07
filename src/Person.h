@@ -29,7 +29,7 @@ public:
 
     void setId(int id);
 
-    virtual ~Person();
+
 
 private:
     string nombre;

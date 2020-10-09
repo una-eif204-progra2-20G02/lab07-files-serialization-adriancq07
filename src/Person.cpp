@@ -4,9 +4,6 @@
 
 #include "Person.h"
 
-Person::~Person() {
-
-}
 
 Person::Person(const string &nombre, int edad, int id) : nombre(nombre), edad(edad), id(id) {}
 
